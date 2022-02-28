@@ -1,0 +1,17 @@
+Unicoin (UNCN)
+Token: 8JChbLTDbu9KwNsdyMKZtiYH4Q5hsXntYXrRgpELEgk3
+
+{
+      "chainId": 101,
+      "address": "8JChbLTDbu9KwNsdyMKZtiYH4Q5hsXntYXrRgpELEgk3",
+      "symbol": "UNCN",
+      "name": "Unicoin",
+      "decimals": 9,
+      "logoURI": "https://github.com/p4thw4yz/cryptostuff/blob/main/assets/images_200x200/unicoin.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
+    }
+
+Notes:
+Created with the kids as a fun weekend project, getting them interested in Crypto and the Web3 space.

@@ -1,0 +1,17 @@
+BANK OF DAD (BODC)
+TOKEN: Gq5iXNG4vLi4iNMDLSmcJ13uxPf6V9bUzQ2QP7CFvzZs
+
+{
+      "chainId": 101,
+      "address": "Gq5iXNG4vLi4iNMDLSmcJ13uxPf6V9bUzQ2QP7CFvzZs",
+      "symbol": "BODC",
+      "name": "Bank of Dad Coin",
+      "decimals": 4,
+      "logoURI": "https://github.com/p4thw4yz/cryptostuff/blob/main/assets/images_200x200/75e2cfc3473b40bb8b7bfebb59069f5a.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
+    }
+
+Notes:
+Created as a alternative to traditional pocket money. Also allowing for automation of interest payments and other application intergration.
